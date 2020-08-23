@@ -1,4 +1,4 @@
-# :heart: love-calculator :heart:
+# :heart: Love Calculator :heart:
 
 It's simple, just enter two names, and your compatibility percentage will be displayed
 
